@@ -7,8 +7,8 @@ from pyrogram.types import Message
 from queue import Queue
 
 # Pyrogram and API Configuration
-API_ID = "YOUR API ID"  # Get this from https://my.telegram.org
-API_HASH = "YOUR API HASH"  # Get this from https://my.telegram.org
+API_ID = "16013849"  # Get this from https://my.telegram.org
+API_HASH = "c8686adc1a0c7cd17f2201c40123ce91"  # Get this from https://my.telegram.org
 BOT_TOKEN = "YOUR BOT TOKEN"
 GOFILE_API_TOKEN = "YOUR GOFILE API TOKEN"
 
